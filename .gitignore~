@@ -11,7 +11,10 @@
 # Generated files
 bin/
 gen/
+<<<<<<< HEAD
 out/
+=======
+>>>>>>> ebd68a35622b305d451a01da36c8c9dc7265f2d8
 
 # Gradle files
 .gradle/
@@ -31,6 +34,9 @@ proguard/
 
 # Android Studio captures folder
 captures/
+<<<<<<< HEAD
 
 # Intellij
 *.iml
+=======
+>>>>>>> ebd68a35622b305d451a01da36c8c9dc7265f2d8
